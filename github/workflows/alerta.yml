@@ -15,4 +15,4 @@ jobs:
 
       - name: Enviar notificación a ntfy.sh
         run: |
-          curl -d "Se ha subido un archivo a la rama main" ntfy.sh/devops-itla
+          curl -d "Se ha subido un archivo a la rama main (2018-7057) " ntfy.sh/devops-itla
